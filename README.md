@@ -16,7 +16,10 @@
 * [How To Connect Raspberry Pi To Microsoft Remote Desktop](https://www.process.st/how-to/connect-raspberry-pi-to-microsoft-remote-desktop/) - process.st
   - sudo apt-get update
   - sudo apt-get install xrdp
-    
+
+## Emulators and Simulators
+* [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/) - azure-samples.github.io
+
 ## Vidoes
 * [How to Run a Script on Startup for Raspberry Pi // EASY](https://www.youtube.com/watch?v=Gl9HS7-H0mI) - Sam Westby Tech
   
