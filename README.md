@@ -13,9 +13,13 @@
 ### Bash
 * [Bash scripting cheatsheet](https://devhints.io/bash) - devhints.io
 * [How to Find Your IP Address in Linux | ifconfig Command](https://www.geeksforgeeks.org/ifconfig-command-in-linux-with-examples/) - geeksforgeeks.org
-  
+* [How To Connect Raspberry Pi To Microsoft Remote Desktop](https://www.process.st/how-to/connect-raspberry-pi-to-microsoft-remote-desktop/) - process.st
+  - sudo apt-get update
+  - sudo apt-get install xrdp
+    
 ## Vidoes
 * [How to Run a Script on Startup for Raspberry Pi // EASY](https://www.youtube.com/watch?v=Gl9HS7-H0mI) - Sam Westby Tech
-
+  
+-----
 ## Providers
 * [Besomi Electronics Group (UAE)](https://besomi.com/) - besomi.com
