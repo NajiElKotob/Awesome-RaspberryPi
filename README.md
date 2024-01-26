@@ -19,6 +19,7 @@
 
 ## Emulators and Simulators
 * [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/) - azure-samples.github.io
+  - [Connect Raspberry Pi online simulator to Azure IoT Hub (Node.js)](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
 
 ## Vidoes
 * [How to Run a Script on Startup for Raspberry Pi // EASY](https://www.youtube.com/watch?v=Gl9HS7-H0mI) - Sam Westby Tech
