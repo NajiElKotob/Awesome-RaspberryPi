@@ -12,7 +12,8 @@
 ## Commands
 ### Bash
 * [Bash scripting cheatsheet](https://devhints.io/bash) - devhints.io
-
+* [How to Find Your IP Address in Linux | ifconfig Command](https://www.geeksforgeeks.org/ifconfig-command-in-linux-with-examples/) - geeksforgeeks.org
+  
 ## Vidoes
 * [How to Run a Script on Startup for Raspberry Pi // EASY](https://www.youtube.com/watch?v=Gl9HS7-H0mI) - Sam Westby Tech
 
