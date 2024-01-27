@@ -33,3 +33,4 @@
 -----
 ## Providers
 * [Besomi Electronics Group (UAE)](https://besomi.com/) - besomi.com
+* [EKT Katranji (LEB)](https://www.katranji.com/search?k=raspberry%20pi&c=0) - katranji.com
