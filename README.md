@@ -5,6 +5,9 @@
 * [Raspberry Pi](https://www.raspberrypi.com/) - raspberrypi.com
 * [Raspberry Pi OS](https://www.raspberrypi.com/software/)
 
+## Docs and Articles
+* [GPIO and the 40-pin Header](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - raspberrypi.com
+
 ## Tools
 * [VNC Viewer](https://apps.microsoft.com/detail/XP99DVCPGKTXNJ?ocid=pdpshare&hl=en-us&gl=US) - Windows App
 * [PuTTY](https://www.putty.org) - putty.org | PuTTY is an SSH and telnet client
