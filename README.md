@@ -16,7 +16,7 @@
 * [How To Connect Raspberry Pi To Microsoft Remote Desktop](https://www.process.st/how-to/connect-raspberry-pi-to-microsoft-remote-desktop/) - process.st
   - sudo apt-get update
   - sudo apt-get install xrdp
-* [Nano Text Editor Basics (pico) 📺](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI) - SavvyNik
+* [Nano Text Editor Basics (pico) 📺](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI) - SavvyNik | GNU nano is a simple terminal-based text editor.
 
 ## Emulators and Simulators
 * [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/) - azure-samples.github.io
