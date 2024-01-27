@@ -25,6 +25,7 @@
 ## Vidoes
 * [How to Run a Script on Startup for Raspberry Pi // EASY](https://www.youtube.com/watch?v=Gl9HS7-H0mI) - Sam Westby Tech
 * [Blinking LED Raspberry Pi Tutorial](https://www.youtube.com/watch?v=CL39xCXdU64) - Sam Westby Tech
+* [3-LED Pattern Blink with Raspberry Pi (Easy Beginner Python Tutorial)](https://www.youtube.com/watch?v=7NzbZaX5MAA) - M Heidenreich
   
 -----
 ## Providers
